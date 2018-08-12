@@ -1,0 +1,51 @@
+id,state,abbr,poverty,phys_act,child_poverty
+1,Alabama,AL,19.3,72.4,27.5
+2,Alaska,AK,11.2,80.8,15.3
+3,Arizona,AZ,18.2,78.8,25.2
+4,Arkansas,AR,18.9,69.4,26
+5,California,CA,16.4,78.3,22.4
+6,Colorado,CO,12,83.6,15.1
+7,Connecticut,CT,10.8,79.4,14.4
+8,Delaware,DE,12.5,75.1,17.5
+9,Florida,FL,16.5,76.3,25.9
+10,Georgia,GA,18.3,76.4,23.5
+11,Hawaii,HI,11.4,80.4,26.1
+12,Idaho,ID,14.8,81.3,14.4
+13,Illinois,IL,14.4,76.1,18.5
+14,Indiana,IN,15.2,73.9,19.9
+15,Iowa,IA,12.2,77.4,21.2
+16,Kansas,KS,13.6,76.2,14.9
+17,Kentucky,KY,19.1,71.8,17.4
+18,Louisiana,LA,19.8,70.5,25.8
+19,Maine,ME,14.1,80.3,27.6
+20,Maryland,MD,10.1,78.6,18.7
+21,Massachusetts,MA,11.6,79.9,12.7
+22,Michigan,MI,16.2,74.5,14.9
+23,Minnesota,MN,11.5,79.8,22.2
+24,Mississippi,MS,21.5,68.4,14.6
+25,Missouri,MO,15.5,75,29
+26,Montana,MT,15.4,80.4,20.7
+27,Nebraska,NE,12.4,78.7,18.1
+28,Nevada,NV,15.2,77.5,15.8
+29,New Hampshire,NH,9.2,80.7,21.7
+30,New Jersey,NJ,11.1,76.7,12.5
+31,New Mexico,NM,21.3,76.7,15.7
+32,New York,NY,15.9,74.1,29.1
+33,North Carolina,NC,17.2,76.8,22.2
+34,North Dakota,ND,11.5,78.7,24
+35,Ohio,OH,15.8,75.1,14.3
+36,Oklahoma,OK,16.6,71.7,22.5
+37,Oregon,OR,16.6,83.5,22.1
+38,Pennsylvania,PA,13.6,76.7,21.1
+39,Rhode Island,RI,14.3,77.5,19
+40,South Carolina,SC,18,74.7,19.5
+41,South Dakota,SD,14.2,78.8,26.7
+42,Tennessee,TN,18.3,73.2,17.7
+43,Texas,TX,17.2,72.4,25.9
+44,Utah,UT,11.7,83.2,24.3
+45,Vermont,VT,12.2,81,13
+46,Virginia,VA,11.8,76.5,15.3
+47,Washington,WA,13.2,81.9,15.5
+48,West Virginia,WV,18.3,71.3,17
+49,Wisconsin,WI,13.2,78.8,24.3
+50,Wyoming,WY,11.2,77.9,18.1
