@@ -2,4 +2,4 @@
 
 ## Project Description
 
-Find a correlation between two data variables, each measured state by state and taken from different data sources. Visualize the correlation with a scatter plot and embed the graphic into an .html file. Further details can be found in the Instructions.md file.
+Found a correlation between two data variables, each measured state by state and taken from different data sources. Used D3 to visualize the correlation with a scatter plot and embed the graphic into an html file. Further details can be found in the Instructions.md file.
